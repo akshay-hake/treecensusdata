@@ -520,14 +520,10 @@ SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (In
 519,8,W81709468557692-akK0O,Ashoka Tree,Saraca asoca,19.29987173,76.49916999,37,21,5_10,17,Good,ward 8,Vivek Hake,Government,Good,Yes
 520,8,W81709468568222-akK0O,Indian-almond Tree,Terminalia catappa,19.29985812,76.49906069,64,37,10_50,29,Good,ward 8,Vivek Hake,Government,Good,Yes
 521,8,W81709468583318-akK0O,Kavath Tree,Limonia acidissima,19.29994356,76.49939395,67,38,10_50,30,Good,ward 8,Vivek Hake,Government,Good,Yes
-522,8,W81709468596017-akK0O,China Berry,"Melia azedarach
-",19.30024797,76.49933293,61,35,10_50,27,Good,ward 8,Vivek Hake,Government,Good,Yes
-523,8,W81709468597425-akK0O,China Berry,"Melia azedarach
-",19.30040618,76.49936646,39,22,10_50,17,Good,ward 8,Vivek Hake,Government,Good,Yes
-524,8,W81709468597766-akK0O,China Berry,"Melia azedarach
-",19.3003641,76.49927862,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good,Yes
-525,8,W81709468598337-akK0O,China Berry,"Melia azedarach
-",19.30036125,76.49947811,57,33,10_50,26,Good,ward 8,Vivek Hake,Government,Good,Yes
+522,8,W81709468596017-akK0O,China Berry,Melia azedarach,19.30024797,76.49933293,61,35,10_50,27,Good,ward 8,Vivek Hake,Government,Good,Yes
+523,8,W81709468597425-akK0O,China Berry,Melia azedarach,19.30040618,76.49936646,39,22,10_50,17,Good,ward 8,Vivek Hake,Government,Good,Yes
+524,8,W81709468597766-akK0O,China Berry,Melia azedarach,19.3003641,76.49927862,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good,Yes
+525,8,W81709468598337-akK0O,China Berry,Melia azedarach,19.30036125,76.49947811,57,33,10_50,26,Good,ward 8,Vivek Hake,Government,Good,Yes
 526,8,W81709468604959-akK0O,Neem Tree,Azadirachta indica,19.30029163,76.49934232,55,31,10_50,25,Good,ward 8,Vivek Hake,Government,Good,Yes
 527,8,W81709468605610-akK0O,Neem Tree,Azadirachta indica,19.3003429,76.49929672,36,21,10_50,16,Good,ward 8,Vivek Hake,Government,Good,Yes
 528,8,W81709468606114-akK0O,Neem Tree,Azadirachta indica,19.30034543,76.49936613,44,25,10_50,20,Good,ward 8,Vivek Hake,Government,Good,Yes
