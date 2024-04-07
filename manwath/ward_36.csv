@@ -1,0 +1,479 @@
+SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (Inch),Height (Ft),Age (Years),Canopy (sq. mtr),Condition,Landmark,Concern Person,ownership,Remark,Display
+7985,11,W111354236290923-GHe1b,Hiwar Tree,Acacia leucophloea,19.29678741,76.47198983,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+7986,11,W111353936613049-GHe1b,Hiwar Tree,Acacia leucophloea,19.29958029,76.46629315,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+7987,11,W111353636935175-GHe1b,Hiwar Tree,Acacia leucophloea,19.29692253,76.47198815,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+7988,11,W111353337257301-GHe1b,Hiwar Tree,Acacia leucophloea,19.29811424,76.46644101,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+7989,11,W111353037579427-GHe1b,Hiwar Tree,Acacia leucophloea,19.29737599,76.46829441,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+7990,11,W111352737901553-GHe1b,Hiwar Tree,Acacia leucophloea,19.29678077,76.47169948,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+7991,11,W111352438223679-GHe1b,Hiwar Tree,Acacia leucophloea,19.29757155,76.46725204,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+7992,11,W111352138545805-GHe1b,Hiwar Tree,Acacia leucophloea,19.29738042,76.46719135,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+7993,11,W111351838867931-GHe1b,Hiwar Tree,Acacia leucophloea,19.29721777,76.46717325,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+7994,11,W111351539190057-GHe1b,Hiwar Tree,Acacia leucophloea,19.2971124,76.46703243,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+7995,11,W111351239512183-GHe1b,Hiwar Tree,Acacia leucophloea,19.2966371,76.47190668,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+7996,11,W111350939834309-GHe1b,Hiwar Tree,Acacia leucophloea,19.29616118,76.46763459,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+7997,11,W111350640156435-GHe1b,Hiwar Tree,Acacia leucophloea,19.29877369,76.46759871,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+7998,11,W111350340478561-GHe1b,Neem Tree,Azadirachta indica,19.29278978,76.47165421,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+7999,11,W111350040800687-GHe1b,Neem Tree,Azadirachta indica,19.2989335,76.47074863,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8000,11,W111349741122813-GHe1b,Neem Tree,Azadirachta indica,19.29285433,76.47178162,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8001,11,W111349441444939-GHe1b,Neem Tree,Azadirachta indica,19.29965718,76.46955471,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8002,11,W111349141767065-GHe1b,Neem Tree,Azadirachta indica,19.29222745,76.47173535,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8003,11,W111348842089191-GHe1b,Neem Tree,Azadirachta indica,19.29200498,76.47171859,41,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8004,11,W111348542411317-GHe1b,Neem Tree,Azadirachta indica,19.29971193,76.47055887,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8005,11,W111348242733443-GHe1b,Neem Tree,Azadirachta indica,19.29999355,76.47060279,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8006,11,W111347943055569-GHe1b,Neem Tree,Azadirachta indica,19.29180973,76.47172127,33,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8007,11,W111347643377695-GHe1b,Neem Tree,Azadirachta indica,19.2916841,76.47175211,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8008,11,W111347343699821-GHe1b,Neem Tree,Azadirachta indica,19.30028815,76.47042174,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8009,11,W111347044021947-GHe1b,Neem Tree,Azadirachta indica,19.29131227,76.47170853,66,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8010,11,W111346744344073-GHe1b,Neem Tree,Azadirachta indica,19.30041852,76.46934047,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8011,11,W111346444666199-GHe1b,Neem Tree,Azadirachta indica,19.29109392,76.47166561,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8012,11,W111346144988325-GHe1b,Neem Tree,Azadirachta indica,19.30089982,76.46924861,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8013,11,W111345845310451-GHe1b,Neem Tree,Azadirachta indica,19.30092924,76.4691041,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8014,11,W111345545632577-GHe1b,Neem Tree,Azadirachta indica,19.2911569,76.4706789,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8015,11,W111345245954703-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29668773,76.47186141,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8016,11,W111344946276829-GHe1b,Neem Tree,Azadirachta indica,19.29168948,76.46988496,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8017,11,W111344646598955-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29660736,76.4718128,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8018,11,W111344346921081-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29674564,76.47207599,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8019,11,W111344047243207-GHe1b,Neem Tree,Azadirachta indica,19.29164138,76.47001605,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8020,11,W111343747565333-GHe1b,Neem Tree,Azadirachta indica,19.29119519,76.47010591,32,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8021,11,W111343447887459-GHe1b,Neem Tree,Azadirachta indica,19.29134708,76.47004489,55,31,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8022,11,W111343148209585-GHe1b,Neem Tree,Azadirachta indica,19.29130784,76.47014748,53,30,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8023,11,W111342848531711-GHe1b,Neem Tree,Azadirachta indica,19.2913148,76.46987289,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8024,11,W111342548853837-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29647888,76.47170115,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8025,11,W111342249175963-GHe1b,Neem Tree,Azadirachta indica,19.29098127,76.47035033,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8026,11,W111341949498089-GHe1b,Neem Tree,Azadirachta indica,19.29096259,76.470237,48,27,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8027,11,W111341649820215-GHe1b,Neem Tree,Azadirachta indica,19.30001507,76.4673942,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8028,11,W111341350142341-GHe1b,Neem Tree,Azadirachta indica,19.3002486,76.46710418,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8029,11,W111341050464467-GHe1b,Neem Tree,Azadirachta indica,19.30015019,76.46709982,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8030,11,W111340750786593-GHe1b,Neem Tree,Azadirachta indica,19.29664533,76.47155832,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8031,11,W111340451108719-GHe1b,Neem Tree,Azadirachta indica,19.29650135,76.47151407,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8032,11,W111340151430845-GHe1b,Neem Tree,Azadirachta indica,19.29162777,76.46936025,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8033,11,W111339851752971-GHe1b,Neem Tree,Azadirachta indica,19.29159296,76.46922614,53,30,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8034,11,W111339552075097-GHe1b,Neem Tree,Azadirachta indica,19.29164107,76.46894619,53,30,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8035,11,W111339252397223-GHe1b,Neem Tree,Azadirachta indica,19.29174486,76.46869808,34,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8036,11,W111338952719349-GHe1b,Neem Tree,Azadirachta indica,19.29189771,76.46868568,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8037,11,W111338653041475-GHe1b,Neem Tree,Azadirachta indica,19.29600485,76.47177089,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8038,11,W111338353363601-GHe1b,Neem Tree,Azadirachta indica,19.29128696,76.46794405,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8039,11,W111338053685727-GHe1b,Neem Tree,Azadirachta indica,19.29129803,76.46831386,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8040,11,W111337754007853-GHe1b,Neem Tree,Azadirachta indica,19.29630326,76.46974213,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8041,11,W111337454329979-GHe1b,Neem Tree,Azadirachta indica,19.29085563,76.468223,59,34,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8042,11,W111337154652105-GHe1b,Neem Tree,Azadirachta indica,19.29102905,76.46805435,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8043,11,W111336854974231-GHe1b,Neem Tree,Azadirachta indica,19.2908512,76.46802552,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8044,11,W111336555296357-GHe1b,Neem Tree,Azadirachta indica,19.29090943,76.46809191,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8045,11,W111336255618483-GHe1b,Neem Tree,Azadirachta indica,19.29097462,76.46881644,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8046,11,W111335955940609-GHe1b,Neem Tree,Azadirachta indica,19.29612004,76.46978471,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8047,11,W111335656262735-GHe1b,Neem Tree,Azadirachta indica,19.29093443,76.46864075,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8048,11,W111335356584861-GHe1b,Neem Tree,Azadirachta indica,19.29110088,76.4684929,53,30,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8049,11,W111335056906987-GHe1b,Neem Tree,Azadirachta indica,19.29622795,76.46990776,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8050,11,W111334757229113-GHe1b,Neem Tree,Azadirachta indica,19.29310622,76.4674874,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8051,11,W111334457551239-GHe1b,Neem Tree,Azadirachta indica,19.29587638,76.47041101,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8052,11,W111334157873365-GHe1b,Neem Tree,Azadirachta indica,19.29231479,76.46710686,42,24,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8053,11,W111333858195491-GHe1b,Neem Tree,Azadirachta indica,19.29214675,76.46785218,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8054,11,W111333558517617-GHe1b,Neem Tree,Azadirachta indica,19.29266858,76.46849457,59,34,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8055,11,W111333258839743-GHe1b,Neem Tree,Azadirachta indica,19.296127,76.47053272,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8056,11,W111332959161869-GHe1b,Neem Tree,Azadirachta indica,19.29603428,76.47051863,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8057,11,W111332659483995-GHe1b,Neem Tree,Azadirachta indica,19.29328248,76.46834537,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8058,11,W111332359806121-GHe1b,Neem Tree,Azadirachta indica,19.29326065,76.46840774,69,39,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8059,11,W111332060128247-GHe1b,Neem Tree,Azadirachta indica,19.29646623,76.47063263,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8060,11,W111331760450373-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29632383,76.47118013,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8061,11,W111331460772499-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29609314,76.47118013,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8062,11,W111331161094625-GHe1b,Neem Tree,Azadirachta indica,19.29337489,76.46865617,54,31,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8063,11,W111330861416751-GHe1b,Neem Tree,Azadirachta indica,19.29345273,76.46867596,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8064,11,W111330561738877-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29592669,76.47120126,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8065,11,W111330262061003-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2957729,76.47115063,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8066,11,W111329962383129-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29571183,76.4711741,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8067,11,W111329662705255-GHe1b,Neem Tree,Azadirachta indica,19.29301698,76.4684986,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8068,11,W111329363027381-GHe1b,Neem Tree,Azadirachta indica,19.29309356,76.46873061,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8069,11,W111329063349507-GHe1b,Neem Tree,Azadirachta indica,19.2938793,76.46873094,46,26,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8070,11,W111328763671633-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29564474,76.47117745,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8071,11,W111328463993759-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29556089,76.47113722,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8072,11,W111328164315885-GHe1b,Neem Tree,Azadirachta indica,19.29626244,76.47052031,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8073,11,W111327864638011-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29542102,76.47117544,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8074,11,W111327564960137-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29538874,76.47122741,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8075,11,W111327265282263-GHe1b,Neem Tree,Azadirachta indica,19.29436505,76.46885734,46,26,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8076,11,W111326965604389-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29540456,76.47129916,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8077,11,W111326665926515-GHe1b,Neem Tree,Azadirachta indica,19.29456029,76.46879196,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8078,11,W111326366248641-GHe1b,Hiwar Tree,Acacia leucophloea,19.29538526,76.47110369,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8079,11,W111326066570767-GHe1b,Mango Tree,Mangifera indica,19.29460966,76.46857738,48,27,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8080,11,W111325766892893-GHe1b,Mango Tree,Mangifera indica,19.29440871,76.46827262,63,36,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8081,11,W111325467215019-GHe1b,Neem Tree,Azadirachta indica,19.289949,76.47168875,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8082,11,W111325167537145-GHe1b,Mango Tree,Mangifera indica,19.29395683,76.4681375,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8083,11,W111324867859271-GHe1b,Neem Tree,Azadirachta indica,19.29036323,76.4715258,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8084,11,W111324568181397-GHe1b,Mango Tree,Mangifera indica,19.29356697,76.46841679,54,31,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8085,11,W111324268503523-GHe1b,Neem Tree,Azadirachta indica,19.29051039,76.47170048,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8086,11,W111323968825649-GHe1b,Neem Tree,Azadirachta indica,19.29086418,76.47205386,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8087,11,W111323669147775-GHe1b,Neem Tree,Azadirachta indica,19.29085532,76.47178363,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8088,11,W111323369469901-GHe1b,Neem Tree,Azadirachta indica,19.29091924,76.4715647,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8089,11,W111323069792027-GHe1b,Mango Tree,Mangifera indica,19.29302585,76.46811303,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8090,11,W111322770114153-GHe1b,Mango Tree,Mangifera indica,19.29351317,76.46797892,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8091,11,W111322470436279-GHe1b,Mango Tree,Mangifera indica,19.29330938,76.46764766,57,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8092,11,W111322170758405-GHe1b,Neem Tree,Azadirachta indica,19.29171638,76.47173602,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8093,11,W111321871080531-GHe1b,Neem Tree,Azadirachta indica,19.29129044,76.47174709,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8094,11,W111321571402657-GHe1b,Mango Tree,Mangifera indica,19.29356507,76.46747801,46,26,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8095,11,W111321271724783-GHe1b,Neem Tree,Azadirachta indica,19.29101418,76.47132229,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8096,11,W111320972046909-GHe1b,Neem Tree,Azadirachta indica,19.29106228,76.47094812,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8097,11,W111320672369035-GHe1b,Neem Tree,Azadirachta indica,19.29109012,76.47072047,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8098,11,W111320372691161-GHe1b,Neem Tree,Azadirachta indica,19.29093696,76.47063565,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8099,11,W111320073013287-GHe1b,Mango Tree,Mangifera indica,19.29261984,76.46726042,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8100,11,W111319773335413-GHe1b,Mango Tree,Mangifera indica,19.2924208,76.4674532,57,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8101,11,W111319473657539-GHe1b,Mango Tree,Mangifera indica,19.29226321,76.46743476,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8102,11,W111319173979665-GHe1b,Mango Tree,Mangifera indica,19.29193062,76.46794237,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8103,11,W111318874301791-GHe1b,Mango Tree,Mangifera indica,19.29026577,76.46823876,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8104,11,W111318574623917-GHe1b,Mango Tree,Mangifera indica,19.29027779,76.46833397,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8105,11,W111318274946043-GHe1b,Mango Tree,Mangifera indica,19.29048254,76.46910142,68,39,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8106,11,W111317975268169-GHe1b,Mango Tree,Mangifera indica,19.29012874,76.46870144,54,31,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8107,11,W111317675590295-GHe1b,Mango Tree,Mangifera indica,19.29071956,76.46880906,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8108,11,W111317375912421-GHe1b,Mango Tree,Mangifera indica,19.29092525,76.46976862,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8109,11,W111317076234547-GHe1b,Mango Tree,Mangifera indica,19.28999773,76.47054479,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8110,11,W111316776556673-GHe1b,Mango Tree,Mangifera indica,19.28957685,76.47062492,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8111,11,W111316476878799-GHe1b,Mango Tree,Mangifera indica,19.28928951,76.47228755,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8112,11,W111316177200925-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28996482,76.47059407,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8113,11,W111315877523051-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29011197,76.47150971,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8114,11,W111315577845177-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29000754,76.47152513,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8115,11,W111315278167303-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28977337,76.47155598,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8116,11,W111314978489429-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28916166,76.47155229,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8117,11,W111314678811555-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28964235,76.47170585,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8118,11,W111314379133681-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29021577,76.47057999,64,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8119,11,W111314079455807-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29097051,76.47061285,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8120,11,W111313779777933-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29203948,76.47079993,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8121,11,W111313480100059-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29217365,76.4712549,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8122,11,W111313180422185-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29086608,76.47231974,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8123,11,W111312880744311-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29194581,76.47052333,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8124,11,W111312581066437-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29185973,76.47020113,63,36,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8125,11,W111312281388563-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29178853,76.47000633,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8126,11,W111311981710689-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29184075,76.46991514,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8127,11,W111311682032815-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29188568,76.47005562,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8128,11,W111311382354941-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29164201,76.46947324,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8129,11,W111311082677067-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29168695,76.46959327,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8130,11,W111310782999193-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29168442,76.46968011,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8131,11,W111310483321319-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29099487,76.46922246,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8132,11,W111310183643445-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29093222,76.46959025,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8133,11,W111309883965571-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29171511,76.46945011,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8134,11,W111309584287697-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29340115,76.47083279,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8135,11,W111309284609823-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29326698,76.47079289,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8136,11,W111308984931949-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29374576,76.47053439,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8137,11,W111308685254075-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29376949,76.47060715,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8138,11,W111308385576201-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2937445,76.47068661,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8139,11,W111308085898327-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29375494,76.47075366,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8140,11,W111307786220453-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29534096,76.47094309,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8141,11,W111307486542579-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29524729,76.47070035,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8142,11,W111307186864705-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2938388,76.46929655,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8143,11,W111306887186831-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29344735,76.46989401,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8144,11,W111306587508957-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29313755,76.46938674,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8145,11,W111306287831083-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29305116,76.46972068,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8146,11,W111305988153209-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29311825,76.46892741,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8147,11,W111305688475335-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2910088,76.46956746,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8148,11,W111305388797461-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29091449,76.46957383,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8149,11,W111305089119587-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29101133,76.46941658,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8150,11,W111304789441713-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29098506,76.46931633,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8151,11,W111304489763839-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29098506,76.46922883,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8152,11,W111304190085965-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29092937,76.4694196,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8153,11,W111303890408091-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29094329,76.47003952,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8154,11,W111303590730217-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29100816,76.47040632,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8155,11,W111303291052343-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29102494,76.47049047,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8156,11,W111302991374469-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29105595,76.47052065,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8157,11,W111302691696595-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29106228,76.47059139,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8158,11,W111302392018721-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29107652,76.47066079,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8159,11,W111302092340847-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29105563,76.47071008,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8160,11,W111301792662973-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2911031,76.4707607,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8161,11,W111301492985099-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29110753,76.47080999,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8162,11,W111301193307225-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29109835,76.47087269,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8163,11,W111300893629351-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29101987,76.47083111,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8164,11,W111300593951477-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29105405,76.47075936,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8165,11,W111300294273603-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29105753,76.47080127,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8166,11,W111299994595729-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29106386,76.4709451,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8167,11,W111299694917855-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2910512,76.47099908,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8168,11,W111299395239981-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29104772,76.47103395,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8169,11,W111299095562107-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29107082,76.47117946,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8170,11,W111298795884233-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29096513,76.47132799,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8171,11,W111298496206359-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29093601,76.47150166,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8172,11,W111298196528485-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29085658,76.47154056,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8173,11,W111297896850611-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29091101,76.47156972,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8174,11,W111297597172737-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29084393,76.47232946,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8175,11,W111297297494863-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28963729,76.47286456,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8176,11,W111296997816989-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2898164,76.47305802,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8177,11,W111296698139115-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28981704,76.47166125,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8178,11,W111296398461241-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28982083,76.47164986,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8179,11,W111296098783367-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28992083,76.47165254,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8180,11,W111295799105493-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29006166,76.47169277,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8181,11,W111295499427619-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29023444,76.47164617,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8182,11,W111295199749745-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29043096,76.47165958,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8183,11,W111294900071871-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29063159,76.47152815,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8184,11,W111294600393997-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29033222,76.47150334,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8185,11,W111294300716123-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2901183,76.47149663,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8186,11,W111294001038249-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28992558,76.47151776,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8187,11,W111293701360375-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28971577,76.4715419,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8188,11,W111293401682501-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28970185,76.47164751,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8189,11,W111293102004627-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28956577,76.4717216,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8190,11,W111292802326753-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28951356,76.47157576,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8191,11,W111292502648879-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28943096,76.471674,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8192,11,W111292202971005-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.28940723,76.47154961,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8193,11,W111291903293131-GHe1b,Giripushp Tree,Gliricidia sepium,19.28954773,76.47162873,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8194,11,W111291603615257-GHe1b,Giripushp Tree,Gliricidia sepium,19.2896221,76.47168003,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8195,11,W111291303937383-GHe1b,Giripushp Tree,Gliricidia sepium,19.28969963,76.47169344,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8196,11,W111291004259509-GHe1b,Giripushp Tree,Gliricidia sepium,19.28966735,76.4717548,64,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8197,11,W111290704581635-GHe1b,Giripushp Tree,Gliricidia sepium,19.28976419,76.47176318,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8198,11,W111290404903761-GHe1b,Giripushp Tree,Gliricidia sepium,19.28983571,76.47156201,68,39,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8199,11,W111290105225887-GHe1b,Giripushp Tree,Gliricidia sepium,19.29001324,76.47168238,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8200,11,W111289805548013-GHe1b,Giripushp Tree,Gliricidia sepium,19.29002273,76.47154156,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8201,11,W111289505870139-GHe1b,Giripushp Tree,Gliricidia sepium,19.29015279,76.47154558,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8202,11,W111289206192265-GHe1b,Giripushp Tree,Gliricidia sepium,19.2901857,76.47166427,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8203,11,W111288906514391-GHe1b,Giripushp Tree,Gliricidia sepium,19.29025596,76.4715144,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8204,11,W111288606836517-GHe1b,Giripushp Tree,Gliricidia sepium,19.29030026,76.47165053,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8205,11,W111288307158643-GHe1b,Giripushp Tree,Gliricidia sepium,19.2904838,76.47168372,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8206,11,W111288007480769-GHe1b,Giripushp Tree,Gliricidia sepium,19.29058095,76.47153385,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8207,11,W111287707802895-GHe1b,Giripushp Tree,Gliricidia sepium,19.29051165,76.4715077,44,25,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8208,11,W111287408125021-GHe1b,Giripushp Tree,Gliricidia sepium,19.29078507,76.47170585,50,29,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8209,11,W111287108447147-GHe1b,Giripushp Tree,Gliricidia sepium,19.29089741,76.47182386,64,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8210,11,W111286808769273-GHe1b,Giripushp Tree,Gliricidia sepium,19.29088063,76.4720485,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8211,11,W111286509091399-GHe1b,Giripushp Tree,Gliricidia sepium,19.29334419,76.47243742,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8212,11,W111286209413525-GHe1b,Giripushp Tree,Gliricidia sepium,19.29329894,76.47242904,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8213,11,W111285909735651-GHe1b,Giripushp Tree,Gliricidia sepium,19.29333122,76.47246458,62,35,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8214,11,W111285610057777-GHe1b,Giripushp Tree,Gliricidia sepium,19.29329356,76.47247262,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8215,11,W111285310379903-GHe1b,Giripushp Tree,Gliricidia sepium,19.29326381,76.47243977,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8216,11,W111285010702029-GHe1b,Giripushp Tree,Gliricidia sepium,19.29318249,76.47239484,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8217,11,W111284711024155-GHe1b,Giripushp Tree,Gliricidia sepium,19.29307268,76.47246424,41,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8218,11,W111284411346281-GHe1b,Giripushp Tree,Gliricidia sepium,19.29304167,76.47246256,42,24,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8219,11,W111284111668407-GHe1b,Giripushp Tree,Gliricidia sepium,19.29300085,76.47246055,64,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8220,11,W111283811990533-GHe1b,Giripushp Tree,Gliricidia sepium,19.29280528,76.47246558,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8221,11,W111283512312659-GHe1b,Giripushp Tree,Gliricidia sepium,19.29269452,76.47254806,59,34,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8222,11,W111283212634785-GHe1b,Giripushp Tree,Gliricidia sepium,19.29274104,76.47243474,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8223,11,W111282912956911-GHe1b,Giripushp Tree,Gliricidia sepium,19.29268788,76.47242669,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8224,11,W111282613279037-GHe1b,Giripushp Tree,Gliricidia sepium,19.29254453,76.47243876,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8225,11,W111282313601163-GHe1b,Giripushp Tree,Gliricidia sepium,19.2925901,76.4724002,30,17,10_50,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8226,11,W111282013923289-GHe1b,Giripushp Tree,Gliricidia sepium,19.29254548,76.47234354,62,35,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8227,11,W111281714245415-GHe1b,Giripushp Tree,Gliricidia sepium,19.29254231,76.47227984,32,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8228,11,W111281414567541-GHe1b,Giripushp Tree,Gliricidia sepium,19.292517,76.47222586,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8229,11,W111281114889667-GHe1b,Giripushp Tree,Gliricidia sepium,19.29248472,76.47216417,42,24,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8230,11,W111280815211793-GHe1b,Giripushp Tree,Gliricidia sepium,19.29253567,76.4720438,66,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8231,11,W111280515533919-GHe1b,Giripushp Tree,Gliricidia sepium,19.29325464,76.47180811,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8232,11,W111280215856045-GHe1b,Giripushp Tree,Gliricidia sepium,19.29320116,76.47181313,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8233,11,W111279916178171-GHe1b,Giripushp Tree,Gliricidia sepium,19.29315875,76.47185504,35,20,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8234,11,W111279616500297-GHe1b,Giripushp Tree,Gliricidia sepium,19.29312648,76.47179101,69,39,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8235,11,W111279316822423-GHe1b,Giripushp Tree,Gliricidia sepium,19.29310432,76.47184499,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8236,11,W111279017144549-GHe1b,Giripushp Tree,Gliricidia sepium,19.2930366,76.4718242,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8237,11,W111278717466675-GHe1b,Giripushp Tree,Gliricidia sepium,19.29297964,76.47176586,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8238,11,W111278417788801-GHe1b,Giripushp Tree,Gliricidia sepium,19.29292173,76.47182755,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8239,11,W111278118110927-GHe1b,Giripushp Tree,Gliricidia sepium,19.29292838,76.47189427,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8240,11,W111277818433053-GHe1b,Giripushp Tree,Gliricidia sepium,19.29353596,76.4717434,34,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8241,11,W111277518755179-GHe1b,Giripushp Tree,Gliricidia sepium,19.29344545,76.47176217,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8242,11,W111277219077305-GHe1b,Giripushp Tree,Gliricidia sepium,19.29332868,76.47180744,54,31,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8243,11,W111276919399431-GHe1b,Giripushp Tree,Gliricidia sepium,19.29312299,76.47204414,42,24,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8244,11,W111276619721557-GHe1b,Giripushp Tree,Gliricidia sepium,19.29309167,76.47210583,44,25,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8245,11,W111276320043683-GHe1b,Giripushp Tree,Gliricidia sepium,19.29210814,76.47177558,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8246,11,W111276020365809-GHe1b,Giripushp Tree,Gliricidia sepium,19.28945755,76.47361055,55,31,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8247,11,W111275720687935-GHe1b,Giripushp Tree,Gliricidia sepium,19.28935501,76.47368867,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8248,11,W111275421010061-GHe1b,Giripushp Tree,Gliricidia sepium,19.28925027,76.47368766,35,20,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8249,11,W111275121332187-GHe1b,Giripushp Tree,Gliricidia sepium,19.28926166,76.47359814,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8250,11,W111274821654313-GHe1b,Giripushp Tree,Gliricidia sepium,19.28934552,76.47360854,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8251,11,W111274521976439-GHe1b,peepal Tree,Ficus religiosa,19.29531754,76.47407625,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8252,11,W111274222298565-GHe1b,Neem Tree,Azadirachta indica,19.29532165,76.47388648,34,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8253,11,W111273922620691-GHe1b,Lemon Tree,Citrus Limon,19.29747978,76.47503145,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8254,11,W111273622942817-GHe1b,Lemon Tree,Citrus Limon,19.29722093,76.47484001,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8255,11,W111273323264943-GHe1b,Indian Bat Tree,Ficus amplissima,19.29307331,76.47221345,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8256,11,W111273023587069-GHe1b,Indian Bat Tree,Ficus amplissima,19.29310211,76.47240356,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8257,11,W111272723909195-GHe1b,Indian Bat Tree,Ficus amplissima,19.29309673,76.47234019,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8258,11,W111272424231321-GHe1b,Lemon Tree,Citrus Limon,19.29667096,76.47468578,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8259,11,W111272124553447-GHe1b,Indian Bat Tree,Ficus amplissima,19.29294515,76.47201329,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8260,11,W111271824875573-GHe1b,Indian-almond Tree,Terminalia catappa,19.29449669,76.48843009,38,22,5_10,17,Good,Ward 11,Akshay Hake,Government,Good,No
+8261,11,W111271525197699-GHe1b,Indian-almond Tree,Terminalia catappa,19.29469193,76.48870502,36,21,5_10,16,Good,Ward 11,Akshay Hake,Government,Good,No
+8262,11,W111271225519825-GHe1b,Indian-almond Tree,Terminalia catappa,19.29479794,76.48874357,38,22,5_10,17,Good,Ward 11,Akshay Hake,Government,Good,No
+8263,11,W111270925841951-GHe1b,Indian-almond Tree,Terminalia catappa,19.29507261,76.48886092,30,17,5_10,13,Good,Ward 11,Akshay Hake,Government,Good,No
+8264,11,W111270626164077-GHe1b,Indian-almond Tree,Terminalia catappa,19.29507388,76.48882538,34,19,5_10,15,Good,Ward 11,Akshay Hake,Government,Good,No
+8265,11,W111270326486203-GHe1b,Ashoka Tree,Saraca asoca,19.29440618,76.48890182,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8266,11,W111270026808329-GHe1b,Ashoka Tree,Saraca asoca,19.29439194,76.48885489,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8267,11,W111269727130455-GHe1b,Ashoka Tree,Saraca asoca,19.29436536,76.48882136,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8268,11,W111269427452581-GHe1b,Ashoka Tree,Saraca asoca,19.29434226,76.48879521,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8269,11,W111269127774707-GHe1b,Ashoka Tree,Saraca asoca,19.29432169,76.48877207,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8270,11,W111268828096833-GHe1b,Ashoka Tree,Saraca asoca,19.29408816,76.48844752,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8271,11,W111268528418959-GHe1b,Ashoka Tree,Saraca asoca,19.29406442,76.48843311,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8272,11,W111268228741085-GHe1b,Ashoka Tree,Saraca asoca,19.2940543,76.48840595,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8273,11,W111267929063211-GHe1b,Ashoka Tree,Saraca asoca,19.29403088,76.48838717,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8274,11,W111267629385337-GHe1b,Mango Tree,Mangifera indica,19.2943603,76.48872849,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8275,11,W111267329707463-GHe1b,Neem Tree,Azadirachta indica,19.29123538,76.47026885,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8276,11,W111267030029589-GHe1b,Neem Tree,Azadirachta indica,19.29115215,76.47019576,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8277,11,W111266730351715-GHe1b,Neem Tree,Azadirachta indica,19.29111576,76.47022627,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8278,11,W111266430673841-GHe1b,Neem Tree,Azadirachta indica,19.29107937,76.47017565,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8279,11,W111266130995967-GHe1b,Neem Tree,Azadirachta indica,19.29107937,76.47009015,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8280,11,W111265831318093-GHe1b,Neem Tree,Azadirachta indica,19.29100563,76.46990307,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8281,11,W111265531640219-GHe1b,Neem Tree,Azadirachta indica,19.29089519,76.46978471,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8282,11,W111265231962345-GHe1b,Neem Tree,Azadirachta indica,19.29119234,76.46975555,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8283,11,W111264932284471-GHe1b,Neem Tree,Azadirachta indica,19.29132715,76.46974616,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8284,11,W111264632606597-GHe1b,Neem Tree,Azadirachta indica,19.29092019,76.46903772,41,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8285,11,W111264332928723-GHe1b,Neem Tree,Azadirachta indica,19.29064045,76.4687876,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8286,11,W111264033250849-GHe1b,Neem Tree,Azadirachta indica,19.29053633,76.46880437,33,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8287,11,W111263733572975-GHe1b,Neem Tree,Azadirachta indica,19.29048665,76.46871652,34,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8288,11,W111263433895101-GHe1b,Neem Tree,Azadirachta indica,19.29040279,76.46875307,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8289,11,W111263134217227-GHe1b,Neem Tree,Azadirachta indica,19.29035216,76.46876615,55,31,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8290,11,W111262834539353-GHe1b,Neem Tree,Azadirachta indica,19.29031545,76.46770567,54,31,10_50,24,Good,Ward 11,Akshay Hake,Private,Good,No
+8291,11,W111262534861479-GHe1b,Neem Tree,Azadirachta indica,19.28995976,76.4685224,44,25,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8292,11,W111262235183605-GHe1b,Neem Tree,Azadirachta indica,19.29010184,76.46851938,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8293,11,W111261935505731-GHe1b,Neem Tree,Azadirachta indica,19.29000691,76.46866959,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8294,11,W111261635827857-GHe1b,Neem Tree,Azadirachta indica,19.29090911,76.46735027,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8295,11,W111261336149983-GHe1b,Neem Tree,Azadirachta indica,19.29096323,76.46633741,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8296,11,W111261036472109-GHe1b,Neem Tree,Azadirachta indica,19.29038064,76.46691408,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8297,11,W111260736794235-GHe1b,Neem Tree,Azadirachta indica,19.29053887,76.46668006,48,27,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8298,11,W111260437116361-GHe1b,Neem Tree,Azadirachta indica,19.29146417,76.46666665,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8299,11,W111260137438487-GHe1b,Neem Tree,Azadirachta indica,19.29483971,76.46701332,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8300,11,W111259837760613-GHe1b,Neem Tree,Azadirachta indica,19.29436441,76.46728154,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8301,11,W111259538082739-GHe1b,Neem Tree,Azadirachta indica,19.29392455,76.46695867,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8302,11,W111259238404865-GHe1b,Neem Tree,Azadirachta indica,19.29447137,76.46765739,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8303,11,W111258938726991-GHe1b,Neem Tree,Azadirachta indica,19.29561658,76.46782603,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8304,11,W111258639049117-GHe1b,Neem Tree,Azadirachta indica,19.29556247,76.46801077,62,35,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8305,11,W111258339371243-GHe1b,Neem Tree,Azadirachta indica,19.29599979,76.46799199,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8306,11,W111258039693369-GHe1b,Neem Tree,Azadirachta indica,19.29264136,76.47410274,48,27,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8307,11,W111257740015495-GHe1b,Neem Tree,Azadirachta indica,19.29168663,76.47415504,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8308,11,W111257440337621-GHe1b,Neem Tree,Azadirachta indica,19.29491503,76.47447925,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8309,11,W111257140659747-GHe1b,Neem Tree,Azadirachta indica,19.29477263,76.47441152,49,28,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8310,11,W111256840981873-GHe1b,Neem Tree,Azadirachta indica,19.29484319,76.47439409,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8311,11,W111256541303999-GHe1b,Neem Tree,Azadirachta indica,19.29496692,76.47451513,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8312,11,W111256241626125-GHe1b,Neem Tree,Azadirachta indica,19.2955669,76.47479039,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8313,11,W111255941948251-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29640958,76.47440247,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8314,11,W111255642270377-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2962039,76.47452887,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8315,11,W111255342592503-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29628396,76.4743029,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8316,11,W111255042914629-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29624345,76.47417616,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8317,11,W111254743236755-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29657666,76.47377282,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8318,11,W111254443558881-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29690228,76.47408664,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8319,11,W111254143881007-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29735954,76.47413325,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8320,11,W111253844203133-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29724024,76.47408798,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8321,11,W111253544525259-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29753073,76.47414397,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8322,11,W111253244847385-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29764591,76.47394784,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8323,11,W111252945169511-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29769591,76.47382244,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8324,11,W111252645491637-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29807785,76.47405714,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8325,11,W111252345813763-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29813481,76.47359446,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8326,11,W111252046135889-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29804273,76.47345968,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8327,11,W111251746458015-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29819208,76.47355322,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8328,11,W111251446780141-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2984215,76.47357434,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8329,11,W111251147102267-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29852782,76.47329137,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8330,11,W111250847424393-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29994134,76.473285,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8331,11,W111250547746519-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2999021,76.473285,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8332,11,W111250248068645-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2999309,76.47313546,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8333,11,W111249948390771-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2999752,76.47292022,40,23,5_10,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8334,11,W111249648712897-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.30000906,76.4728421,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8335,11,W111249349035023-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.30002393,76.4727053,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8336,11,W111249049357149-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2998866,76.47271369,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8337,11,W111248749679275-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.299854,76.4727053,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8338,11,W111248450001401-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29981888,76.47270229,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8339,11,W111248150323527-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29973028,76.47263188,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8340,11,W111247850645653-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29972711,76.47266138,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8341,11,W111247550967779-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29967965,76.4726463,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8342,11,W111247251289905-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.2996287,76.47265904,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8343,11,W111246951612031-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29941891,76.47264797,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8344,11,W111246651934157-GHe1b,Indian Jujube Tree,Ziziphus mauritiana,19.29948409,76.47265367,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8345,11,W111246352256283-GHe1b,Giripushp Tree,Gliricidia sepium,19.29960022,76.47266272,47,27,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8346,11,W111246052578409-GHe1b,Giripushp Tree,Gliricidia sepium,19.29955561,76.47266608,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8347,11,W111245752900535-GHe1b,Giripushp Tree,Gliricidia sepium,19.29926607,76.47263858,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8348,11,W111245453222661-GHe1b,Giripushp Tree,Gliricidia sepium,19.29917114,76.47255175,64,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8349,11,W111245153544787-GHe1b,Giripushp Tree,Gliricidia sepium,19.29918791,76.47262685,46,26,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8350,11,W111244853866913-GHe1b,Giripushp Tree,Gliricidia sepium,19.30055396,76.47275325,69,39,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8351,11,W111244554189039-GHe1b,Giripushp Tree,Gliricidia sepium,19.30049573,76.47274654,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8352,11,W111244254511165-GHe1b,Giripushp Tree,Gliricidia sepium,19.30028973,76.47270866,35,20,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8353,11,W111243954833291-GHe1b,Giripushp Tree,Gliricidia sepium,19.30021031,76.47269055,43,25,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8354,11,W111243655155417-GHe1b,Giripushp Tree,Gliricidia sepium,19.30029258,76.4725494,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8355,11,W111243355477543-GHe1b,Giripushp Tree,Gliricidia sepium,19.29356729,76.46699823,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8356,11,W111243055799669-GHe1b,Giripushp Tree,Gliricidia sepium,19.2940891,76.46707267,31,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8357,11,W111242756121795-GHe1b,Giripushp Tree,Gliricidia sepium,19.29437549,76.46699924,63,36,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8358,11,W111242456443921-GHe1b,Giripushp Tree,Gliricidia sepium,19.29437454,76.46712966,50,29,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8359,11,W111242156766047-GHe1b,Giripushp Tree,Gliricidia sepium,19.29452105,76.46720912,63,36,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8360,11,W111241857088173-GHe1b,Giripushp Tree,Gliricidia sepium,19.29466662,76.46728858,63,36,10_50,28,Good,Ward 11,Akshay Hake,Private,Good,No
+8361,11,W111241557410299-GHe1b,Giripushp Tree,Gliricidia sepium,19.29488338,76.46752395,41,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8362,11,W111241257732425-GHe1b,Giripushp Tree,Gliricidia sepium,19.29483686,76.4676718,59,34,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8363,11,W111240958054551-GHe1b,Giripushp Tree,Gliricidia sepium,19.29495173,76.46754339,70,40,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8364,11,W111240658376677-GHe1b,Giripushp Tree,Gliricidia sepium,19.29486882,76.46760508,69,39,10_50,31,Good,Ward 11,Akshay Hake,Private,Good,No
+8365,11,W111240358698803-GHe1b,Giripushp Tree,Gliricidia sepium,19.29579474,76.46744817,58,33,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8366,11,W111240059020929-GHe1b,Giripushp Tree,Gliricidia sepium,19.29576151,76.46743543,33,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8367,11,W111239759343055-GHe1b,Giripushp Tree,Gliricidia sepium,19.29515267,76.46756988,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8368,11,W111239459665181-GHe1b,Giripushp Tree,Gliricidia sepium,19.29491692,76.46775361,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8369,11,W111239159987307-GHe1b,Giripushp Tree,Gliricidia sepium,19.29578493,76.46835878,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8370,11,W111238860309433-GHe1b,Giripushp Tree,Gliricidia sepium,19.29643237,76.46733586,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8371,11,W111238560631559-GHe1b,Neem Tree,Azadirachta indica,19.29734751,76.48739945,44,25,10_50,20,Good,Ward 11,Akshay Hake,Government,Good,No
+8372,11,W111238260953685-GHe1b,Neem Tree,Azadirachta indica,19.29745194,76.48744304,51,29,10_50,23,Good,Ward 11,Akshay Hake,Government,Good,No
+8373,11,W111237961275811-GHe1b,Neem Tree,Azadirachta indica,19.29750351,76.48747656,59,34,10_50,26,Good,Ward 11,Akshay Hake,Government,Good,No
+8374,11,W111237661597937-GHe1b,Neem Tree,Azadirachta indica,19.29746364,76.48749869,61,35,10_50,27,Good,Ward 11,Akshay Hake,Government,Good,No
+8375,11,W111237361920063-GHe1b,Gulmohar Tree,Delonix regia,19.29675229,76.48725495,51,29,10_50,23,Good,Ward 11,Akshay Hake,Government,Good,No
+8376,11,W111237062242189-GHe1b,Neem Tree,Azadirachta indica,19.29663141,76.48721874,36,21,10_50,16,Good,Ward 11,Akshay Hake,Government,Good,No
+8377,11,W111236762564315-GHe1b,Coconut Tree,Cocos nucifera,19.29419859,76.4884378,32,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8378,11,W111236462886441-GHe1b,Neem Tree,Azadirachta indica,19.29652572,76.48660451,56,32,10_50,25,Good,Ward 11,Akshay Hake,Government,Good,No
+8379,11,W111236163208567-GHe1b,Neem Tree,Azadirachta indica,19.29684817,76.48623839,35,20,10_50,16,Good,Ward 11,Akshay Hake,Government,Good,No
+8380,11,W111235863530693-GHe1b,Giripushp Tree,Gliricidia sepium,19.29424828,76.48842774,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8381,11,W111235563852819-GHe1b,Giripushp Tree,Gliricidia sepium,19.29411094,76.48826849,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8382,11,W111235264174945-GHe1b,Giripushp Tree,Gliricidia sepium,19.29398658,76.48809817,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8383,11,W111234964497071-GHe1b,Mango Tree,Mangifera indica,19.29412739,76.48833051,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8384,11,W111234664819197-GHe1b,Mango Tree,Mangifera indica,19.2940236,76.48818702,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8385,11,W111234365141323-GHe1b,custard apple tree, Annona squamosa,19.29415936,76.48835935,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8386,11,W111234065463449-GHe1b,Gulmohar Tree,Delonix regia,19.29692411,76.48629472,69,39,10_50,31,Good,Ward 11,Akshay Hake,Government,Good,No
+8387,11,W111233765785575-GHe1b,Mango Tree,Mangifera indica,19.29710132,76.48885958,33,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8388,11,W111233466107701-GHe1b,Ashoka Tree,Saraca asoca,19.29706873,76.4888465,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8389,11,W111233166429827-GHe1b,Ashoka Tree,Saraca asoca,19.29703708,76.48883242,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8390,11,W111232866751953-GHe1b,Ashoka Tree,Saraca asoca,19.29701114,76.48881197,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8391,11,W111232567074079-GHe1b,Ashoka Tree,Saraca asoca,19.29697981,76.48880392,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8392,11,W111232267396205-GHe1b,Ashoka Tree,Saraca asoca,19.29695228,76.48879554,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8393,11,W111231967718331-GHe1b,Ashoka Tree,Saraca asoca,19.29692348,76.48879219,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8394,11,W111231668040457-GHe1b,Ashoka Tree,Saraca asoca,19.29689374,76.48876738,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8395,11,W111231368362583-GHe1b,Ashoka Tree,Saraca asoca,19.29687507,76.48876436,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8396,11,W111231068684709-GHe1b,Ashoka Tree,Saraca asoca,19.29684659,76.48875732,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8397,11,W111230769006835-GHe1b,Ashoka Tree,Saraca asoca,19.29681178,76.48875464,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8398,11,W111230469328961-GHe1b,Ashoka Tree,Saraca asoca,19.29677507,76.48874793,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8399,11,W111230169651087-GHe1b,Ashoka Tree,Saraca asoca,19.29674849,76.48873184,30,17,5_10,13,Good,Ward 11,Akshay Hake,Private,Good,No
+8400,11,W111229869973213-GHe1b,Ashoka Tree,Saraca asoca,19.29672001,76.48872279,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8401,11,W111229570295339-GHe1b,Ashoka Tree,Saraca asoca,19.29668932,76.4887134,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8402,11,W111229270617465-GHe1b,Ashoka Tree,Saraca asoca,19.29665989,76.48870468,32,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8403,11,W111228970939591-GHe1b,Ashoka Tree,Saraca asoca,19.29662223,76.48870032,35,20,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8404,11,W111228671261717-GHe1b,Ashoka Tree,Saraca asoca,19.29663331,76.48873419,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8405,11,W111228371583843-GHe1b,Ashoka Tree,Saraca asoca,19.29658995,76.48871675,31,18,5_10,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8406,11,W111228071905969-GHe1b,Ashoka Tree,Saraca asoca,19.29698867,76.48882806,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8407,11,W111227772228095-GHe1b,Ashoka Tree,Saraca asoca,19.29705006,76.48886226,37,21,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8408,11,W111227472550221-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29593271,76.48753691,33,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8409,11,W111227172872347-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29630073,76.48610696,42,24,10_50,19,Good,Ward 11,Akshay Hake,Private,Good,No
+8410,11,W111226873194473-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29614187,76.48604527,46,26,10_50,21,Good,Ward 11,Akshay Hake,Private,Good,No
+8411,11,W111226573516599-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29567037,76.48589004,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8412,11,W111226273838725-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29611149,76.4864409,38,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8413,11,W111225974160851-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29620453,76.48650326,33,19,10_50,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8414,11,W111225674482977-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29647762,76.48598559,66,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8415,11,W111225374805103-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29646306,76.48578711,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8416,11,W111225075127229-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29634946,76.48557086,41,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8417,11,W111224775449355-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29612795,76.48554537,65,37,10_50,29,Good,Ward 11,Akshay Hake,Private,Good,No
+8418,11,W111224475771481-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29636307,76.48578644,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8419,11,W111224176093607-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.2963406,76.48586724,48,27,10_50,22,Good,Ward 11,Akshay Hake,Private,Good,No
+8420,11,W111223876415733-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29573208,76.48532476,39,22,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8421,11,W111223576737859-GHe1b,Giripushp Tree,Gliricidia sepium,19.29531058,76.48909695,34,19,5_10,15,Good,Ward 11,Akshay Hake,Private,Good,No
+8422,11,W111223277059985-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29571531,76.48517825,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8423,11,W111222977382111-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.2953245,76.48522887,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8424,11,W111222677704237-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29558557,76.48466796,52,30,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8425,11,W111222378026363-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29523052,76.48447786,32,18,10_50,14,Good,Ward 11,Akshay Hake,Private,Good,No
+8426,11,W111222078348489-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29514381,76.48429714,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8427,11,W111221778670615-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29502198,76.48418885,66,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8428,11,W111221478992741-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29500236,76.48429379,59,34,10_50,26,Good,Ward 11,Akshay Hake,Private,Good,No
+8429,11,W111221179314867-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29496534,76.48436319,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8430,11,W111220879636993-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29507989,76.48447584,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8431,11,W111220579959119-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29499287,76.48455329,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8432,11,W111220280281245-GHe1b,Giripushp Tree,Gliricidia sepium,19.29561057,76.48916937,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8433,11,W111219980603371-GHe1b,Giripushp Tree,Gliricidia sepium,19.29572797,76.48914423,39,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8434,11,W111219680925497-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29479699,76.48463979,51,29,10_50,23,Good,Ward 11,Akshay Hake,Private,Good,No
+8435,11,W111219381247623-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29454858,76.48470987,68,39,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8436,11,W111219081569749-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29462073,76.48490768,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8437,11,W111218781891875-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29480459,76.48482889,56,32,10_50,25,Good,Ward 11,Akshay Hake,Private,Good,No
+8438,11,W111218482214001-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29485269,76.48481783,68,39,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8439,11,W111218182536127-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29494066,76.48503106,37,21,10_50,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8440,11,W111217882858253-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29459225,76.48502469,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8441,11,W111217583180379-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29461599,76.48522485,67,38,10_50,30,Good,Ward 11,Akshay Hake,Private,Good,No
+8442,11,W111217283502505-GHe1b,Giripushp Tree,Gliricidia sepium,19.29587132,76.48923039,38,22,5_10,17,Good,Ward 11,Akshay Hake,Private,Good,No
+8443,11,W111216983824631-GHe1b,Giripushp Tree,Gliricidia sepium,19.29599726,76.4892884,36,21,5_10,16,Good,Ward 11,Akshay Hake,Private,Good,No
+8444,11,W111216684146757-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29489003,76.48543909,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8445,11,W111216384468883-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29477895,76.48530129,40,23,10_50,18,Good,Ward 11,Akshay Hake,Private,Good,No
+8446,11,W111216084791009-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29498496,76.48554504,61,35,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8447,11,W111215785113135-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29520331,76.48551118,45,26,10_50,20,Good,Ward 11,Akshay Hake,Private,Good,No
+8448,11,W111215485435261-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29537956,76.48572944,60,34,10_50,27,Good,Ward 11,Akshay Hake,Private,Good,No
+8449,11,W111215185757387-GHe1b,Gum Arabic Tree,Vachellia nilotica,19.29550709,76.48566876,36,21,10_50,16,Good,Ward 11,Akshay Hake,Private,Good,No
+428,11,W111709358342396-akK0O,Neem Tree,Azadirachta indica,19.29599061,76.48192573,97,55,heritage,43,Good,Ward 11,Vivek Hake,Private,Good,Yes
+429,11,W111709358458837-akK0O,Neem Tree,Azadirachta indica,19.29584094,76.4819891,80,46,heritage,36,Good,Ward 11,Vivek Hake,Private,Good,Yes
+430,11,W111709367899669-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.29467326,76.48893602,82,47,heritage,37,Good,Ward 11,Vivek Hake,Government,Good,Yes
+431,11,W111709367905995-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.2944951,76.48872312,81,46,heritage,36,Good,Ward 11,Vivek Hake,Government,Good,Yes
+432,11,W111709367923055-WEd1a,Neem Tree,Azadirachta indica,19.29477009,76.48920324,86,49,heritage,39,Good,Ward 11,Vivek Hake,Government,Good,Yes
+433,11,W111709367949450-WEd1a,Giripushp Tree,Gliricidia sepium,19.29476725,76.48906309,83,47,heritage,37,Good,Ward 11,Vivek Hake,Government,Good,Yes
+434,11,W111709367982952-WEd1a,peepal Tree,Ficus religiosa,19.29512546,76.48959719,99,57,heritage,44,Good,Ward 11,Vivek Hake,Government,Good,Yes
+435,11,W111709373250499-baw6S,Neem Tree,Azadirachta indica,19.29803513,76.48755401,78,45,heritage,35,Good,Ward 11,Vivek Hake,Government,Good,Yes
+436,11,W111709375231988-MZ1ci,peepal Tree,Ficus religiosa,19.30120897,76.4903301,81,46,heritage,36,Good,Ward 11,Vivek Hake,Government,Good,Yes
+437,11,W111709375276219-MZ1ci,peepal Tree,Ficus religiosa,19.29725353,76.48937389,92,53,heritage,41,Good,Ward 11,Vivek Hake,Government,Good,Yes
+438,11,W111709470794778-MZ1ci,Neem Tree,Azadirachta indica,19.28868223,76.48987915,89,51,heritage,40,Good,Ward 11,Vivek Hake,Government,Good,Yes
+439,11,W111709471065056-MZ1ci,Tamarind Tree,Tamarindus indica,19.2903202,76.48852933,79,45,heritage,35,Good,Ward 11,Vivek Hake,Government,Good,Yes
+440,11,W111709471066240-MZ1ci,Tamarind Tree,Tamarindus indica,19.29013887,76.4884321,74,42,heritage,33,Good,Ward 11,Vivek Hake,Government,Good,Yes
