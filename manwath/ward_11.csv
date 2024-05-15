@@ -6231,16 +6231,16 @@
 6230,11,W111712542459538-akK0O,Gum arabic tree,Vachellia nilotica,19.29237301,76.49000052,29,15,10_50,9,Good,Ward 11,Shubhan Dhaigude,Government,Good
 6231,11,W111712542460434-akK0O,Gum arabic tree,Vachellia nilotica,19.29221416,76.48979768,28,16,10_50,13,Good,Ward 11,Shubhan Dhaigude,Government,Good
 6232,11,W111712542466382-akK0O,Gum arabic tree,Vachellia nilotica,19.29154107,76.48902789,23,13,10_50,12,Good,Ward 11,Shubhan Dhaigude,Government,Good
-428,11,W111709358342396-akK0O,Neem Tree,Azadirachta indica,19.29599061,76.48192573,91,52,50_100,41,good,Ward 11,Prathmesh Dhaigude,Private,Good
-429,11,W111709358458837-akK0O,Neem Tree,Azadirachta indica,19.29584094,76.4819891,74,42,50_100,33,good,Ward 11,Prathmesh Dhaigude,Private,Good
-430,11,W111709367899669-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.29467326,76.48893602,76,43,50_100,34,good,Ward 11,Prathmesh Dhaigude,Government,Good
-431,11,W111709367905995-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.2944951,76.48872312,78,45,50_100,35,good,Ward 11,Prathmesh Dhaigude,Government,Good
-432,11,W111709367923055-WEd1a,Neem Tree,Azadirachta indica,19.29477009,76.48920324,88,50,50_100,39,good,Ward 11,Prathmesh Dhaigude,Government,Good
-433,11,W111709367949450-WEd1a,Giripushp Tree,Gliricidia sepium,19.29476725,76.48906309,75,43,50_100,34,good,Ward 11,Vivek Hake,Government,Good
-434,11,W111709367982952-WEd1a,peepal Tree,Ficus religiosa,19.29512546,76.48959719,89,51,50_100,40,good,Ward 11,Vivek Hake,Government,Good
-435,11,W111709373250499-baw6S,Neem Tree,Azadirachta indica,19.29803513,76.48755401,86,49,50_100,39,good,Ward 11,Vivek Hake,Government,Good
-436,11,W111709375231988-MZ1ci,peepal Tree,Ficus religiosa,19.30120897,76.4903301,100,57,50_100,45,good,Ward 11,Vivek Hake,Government,Good
-437,11,W111709375276219-MZ1ci,peepal Tree,Ficus religiosa,19.29725353,76.48937389,82,47,50_100,37,good,Ward 11,Vivek Hake,Government,Good
-438,11,W111709470794778-MZ1ci,Neem Tree,Azadirachta indica,19.28868223,76.48987915,89,51,50_100,40,good,Ward 11,Vivek Hake,Government,Good
-439,11,W111709471065056-MZ1ci,Tamarind Tree,Tamarindus indica,19.2903202,76.48852933,80,46,50_100,36,good,Ward 11,Vivek Hake,Government,Good
-440,11,W111709471066240-MZ1ci,Tamarind Tree,Tamarindus indica,19.29013887,76.4884321,80,46,50_100,36,good,Ward 11,Amol Londhe,Government,Good
+428,11,W111709358342396-akK0O,Neem Tree,Azadirachta indica,19.29599061,76.48192573,91,52,heritage,41,good,Ward 11,Prathmesh Dhaigude,Private,Good
+429,11,W111709358458837-akK0O,Neem Tree,Azadirachta indica,19.29584094,76.4819891,74,42,heritage,33,good,Ward 11,Prathmesh Dhaigude,Private,Good
+430,11,W111709367899669-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.29467326,76.48893602,76,43,heritage,34,good,Ward 11,Prathmesh Dhaigude,Government,Good
+431,11,W111709367905995-WEd1a,Nilgiri Tree,Eucalyptus globulus,19.2944951,76.48872312,78,45,heritage,35,good,Ward 11,Prathmesh Dhaigude,Government,Good
+432,11,W111709367923055-WEd1a,Neem Tree,Azadirachta indica,19.29477009,76.48920324,88,50,heritage,39,good,Ward 11,Prathmesh Dhaigude,Government,Good
+433,11,W111709367949450-WEd1a,Giripushp Tree,Gliricidia sepium,19.29476725,76.48906309,75,43,heritage,34,good,Ward 11,Vivek Hake,Government,Good
+434,11,W111709367982952-WEd1a,peepal Tree,Ficus religiosa,19.29512546,76.48959719,89,51,heritage,40,good,Ward 11,Vivek Hake,Government,Good
+435,11,W111709373250499-baw6S,Neem Tree,Azadirachta indica,19.29803513,76.48755401,86,49,heritage,39,good,Ward 11,Vivek Hake,Government,Good
+436,11,W111709375231988-MZ1ci,peepal Tree,Ficus religiosa,19.30120897,76.4903301,100,57,heritage,45,good,Ward 11,Vivek Hake,Government,Good
+437,11,W111709375276219-MZ1ci,peepal Tree,Ficus religiosa,19.29725353,76.48937389,82,47,heritage,37,good,Ward 11,Vivek Hake,Government,Good
+438,11,W111709470794778-MZ1ci,Neem Tree,Azadirachta indica,19.28868223,76.48987915,89,51,heritage,40,good,Ward 11,Vivek Hake,Government,Good
+439,11,W111709471065056-MZ1ci,Tamarind Tree,Tamarindus indica,19.2903202,76.48852933,80,46,heritage,36,good,Ward 11,Vivek Hake,Government,Good
+440,11,W111709471066240-MZ1ci,Tamarind Tree,Tamarindus indica,19.29013887,76.4884321,80,46,heritage,36,good,Ward 11,Amol Londhe,Government,Good

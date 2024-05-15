@@ -749,7 +749,7 @@ SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (In
 744,8,W81709570214461-akK0O,Neem Tree,Azadirachta indica,19.30028404,76.50008127,68,39,10_50,30,Good,ward 8,Vivek Hake,Government,Good
 745,8,W81709570219247-akK0O,Neem Tree,Azadirachta indica,19.30065711,76.50004271,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good
 746,8,W81709570220631-akK0O,Neem Tree,Azadirachta indica,19.30065648,76.5002764,69,39,10_50,31,Good,ward 8,Vivek Hake,Government,Good
-747,8,W81709438733771-ZA33J,Tamarind Tree,Tamarindus indica,19.29931164,76.49731658,76,43,50_100,34,good,ward 8,Shubham Dhaigude,Government,Good
-748,8,W81709445583635-ZA33J,Banyan Tree,Ficus benghalensis,19.29789432,76.49844781,72,41,50_100,32,good,ward 8,Shubham Dhaigude,,Good
-749,8,W81709467443212-akK0O,Neem Tree,Azadirachta indica,19.30074508,76.50201447,81,46,50_100,36,good,ward 8,Shubham Dhaigude,Private,Good
-750,8,W81709467454992-akK0O,Vachellia nilotica,Vachellia nilotica,19.30075742,76.50216032,92,53,50_100,41,good,ward 8,Shubham Dhaigude,Private,Good
+747,8,W81709438733771-ZA33J,Tamarind Tree,Tamarindus indica,19.29931164,76.49731658,76,43,heritage,34,good,ward 8,Shubham Dhaigude,Government,Good
+748,8,W81709445583635-ZA33J,Banyan Tree,Ficus benghalensis,19.29789432,76.49844781,72,41,heritage,32,good,ward 8,Shubham Dhaigude,,Good
+749,8,W81709467443212-akK0O,Neem Tree,Azadirachta indica,19.30074508,76.50201447,81,46,heritage,36,good,ward 8,Shubham Dhaigude,Private,Good
+750,8,W81709467454992-akK0O,Vachellia nilotica,Vachellia nilotica,19.30075742,76.50216032,92,53,heritage,41,good,ward 8,Shubham Dhaigude,Private,Good

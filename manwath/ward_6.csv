@@ -281,9 +281,9 @@ SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (In
 280,6,W61709474466871-akK0O,Neem Tree,Azadirachta indica,19.30100962,76.49764381,52,30,10_50,23,Good,Ward 6,Bhau Maharnavar,Private,Good
 281,6,W61709474467530-akK0O,Neem Tree,Azadirachta indica,19.30053434,76.49743661,32,18,10_50,14,Good,Ward 6,Bhau Maharnavar,Private,Good
 282,6,W61709474467964-akK0O,Neem Tree,Azadirachta indica,19.30054067,76.49734005,49,28,10_50,22,Good,Ward 6,Bhau Maharnavar,Private,Good
-283,6,W61709469668981-akK0O,Neem Tree,Azadirachta indica,19.30091975,76.49702087,72,41,50_100,32,good,Ward 6,Vivek Hake,Private,Good
-284,6,W61709471518482-akK0O,Neem Tree,Azadirachta indica,19.30220478,76.49700578,81,46,50_100,36,good,Ward 6,Vivek Hake,Private,Good
-285,6,W61709471705550-akK0O,Neem Tree,Azadirachta indica,19.30286453,76.49656825,82,47,50_100,37,good,Ward 6,Vivek Hake,Private,Good
-286,6,W61709471706588-akK0O,Neem Tree,Azadirachta indica,19.30287181,76.49649415,73,42,50_100,33,good,Ward 6,Vivek Hake,Private,Good
-287,6,W61709471734068-akK0O,Neem Tree,Azadirachta indica,19.302837,76.49639592,95,54,50_100,43,good,Ward 6,Vivek Hake,Private,Good
-288,6,W61709471765903-akK0O,peepal Tree,Ficus religiosa,19.30299332,76.49645124,95,54,50_100,43,good,Ward 6,Vivek Hake,Private,Good
+283,6,W61709469668981-akK0O,Neem Tree,Azadirachta indica,19.30091975,76.49702087,72,41,heritage,32,good,Ward 6,Vivek Hake,Private,Good
+284,6,W61709471518482-akK0O,Neem Tree,Azadirachta indica,19.30220478,76.49700578,81,46,heritage,36,good,Ward 6,Vivek Hake,Private,Good
+285,6,W61709471705550-akK0O,Neem Tree,Azadirachta indica,19.30286453,76.49656825,82,47,heritage,37,good,Ward 6,Vivek Hake,Private,Good
+286,6,W61709471706588-akK0O,Neem Tree,Azadirachta indica,19.30287181,76.49649415,73,42,heritage,33,good,Ward 6,Vivek Hake,Private,Good
+287,6,W61709471734068-akK0O,Neem Tree,Azadirachta indica,19.302837,76.49639592,95,54,heritage,43,good,Ward 6,Vivek Hake,Private,Good
+288,6,W61709471765903-akK0O,peepal Tree,Ficus religiosa,19.30299332,76.49645124,95,54,heritage,43,good,Ward 6,Vivek Hake,Private,Good
