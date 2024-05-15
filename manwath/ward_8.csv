@@ -520,14 +520,10 @@ SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (In
 519,8,W81709468557692-akK0O,Ashoka Tree,Saraca asoca,19.29987173,76.49916999,37,21,5_10,17,Good,ward 8,Vivek Hake,Government,Good
 520,8,W81709468568222-akK0O,Indian-almond Tree,Terminalia catappa,19.29985812,76.49906069,64,37,10_50,29,Good,ward 8,Vivek Hake,Government,Good
 521,8,W81709468583318-akK0O,Kavath Tree,Limonia acidissima,19.29994356,76.49939395,67,38,10_50,30,Good,ward 8,Vivek Hake,Government,Good
-522,8,W81709468596017-akK0O,China Berry,"Melia azedarach
-",19.30024797,76.49933293,61,35,10_50,27,Good,ward 8,Vivek Hake,Government,Good
-523,8,W81709468597425-akK0O,China Berry,"Melia azedarach
-",19.30040618,76.49936646,39,22,10_50,17,Good,ward 8,Vivek Hake,Government,Good
-524,8,W81709468597766-akK0O,China Berry,"Melia azedarach
-",19.3003641,76.49927862,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good
-525,8,W81709468598337-akK0O,China Berry,"Melia azedarach
-",19.30036125,76.49947811,57,33,10_50,26,Good,ward 8,Vivek Hake,Government,Good
+522,8,W81709468596017-akK0O,China Berry,China Berry,19.30024797,76.49933293,61,35,10_50,27,Good,ward 8,Vivek Hake,Government,Good
+523,8,W81709468597425-akK0O,China Berry,China Berry,19.30040618,76.49936646,39,22,10_50,17,Good,ward 8,Vivek Hake,Government,Good
+524,8,W81709468597766-akK0O,China Berry,China Berry,19.3003641,76.49927862,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good
+525,8,W81709468598337-akK0O,China Berry,China Berry,19.30036125,76.49947811,57,33,10_50,26,Good,ward 8,Vivek Hake,Government,Good
 526,8,W81709468604959-akK0O,Neem Tree,Azadirachta indica,19.30029163,76.49934232,55,31,10_50,25,Good,ward 8,Vivek Hake,Government,Good
 527,8,W81709468605610-akK0O,Neem Tree,Azadirachta indica,19.3003429,76.49929672,36,21,10_50,16,Good,ward 8,Vivek Hake,Government,Good
 528,8,W81709468606114-akK0O,Neem Tree,Azadirachta indica,19.30034543,76.49936613,44,25,10_50,20,Good,ward 8,Vivek Hake,Government,Good
@@ -750,6 +746,6 @@ SR. No,Ward No,Serial no.,Tree Name,Scientific Name,Latitude,Longitude,Girth (In
 745,8,W81709570219247-akK0O,Neem Tree,Azadirachta indica,19.30065711,76.50004271,59,34,10_50,26,Good,ward 8,Vivek Hake,Government,Good
 746,8,W81709570220631-akK0O,Neem Tree,Azadirachta indica,19.30065648,76.5002764,69,39,10_50,31,Good,ward 8,Vivek Hake,Government,Good
 747,8,W81709438733771-ZA33J,Tamarind Tree,Tamarindus indica,19.29931164,76.49731658,76,43,heritage,34,good,ward 8,Shubham Dhaigude,Government,Good
-748,8,W81709445583635-ZA33J,Banyan Tree,Ficus benghalensis,19.29789432,76.49844781,72,41,heritage,32,good,ward 8,Shubham Dhaigude,,Good
+748,8,W81709445583635-ZA33J,Banyan Tree,Ficus benghalensis,19.29789432,76.49844781,72,41,heritage,32,good,ward 8,Shubham Dhaigude,Government,Good
 749,8,W81709467443212-akK0O,Neem Tree,Azadirachta indica,19.30074508,76.50201447,81,46,heritage,36,good,ward 8,Shubham Dhaigude,Private,Good
 750,8,W81709467454992-akK0O,Vachellia nilotica,Vachellia nilotica,19.30075742,76.50216032,92,53,heritage,41,good,ward 8,Shubham Dhaigude,Private,Good
